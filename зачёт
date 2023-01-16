@@ -1,0 +1,19 @@
+задача 1
+
+x = 15
+if x % 2 == 0:
+    print (x*8)
+else:
+    print (x*9)
+
+https://www.codewars.com/kata/583710ccaa6717322c000105/train/python
+
+
+задача 2
+
+str = ("basket" [::-1] )
+print(str)
+https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/python
+
+
+
